@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">List View</string>
+    <string name="header">Header: Start of Countries ListView!</string>
+    <string name="footer">Footer: End of Countries ListView!</string>
+
+    <!-- Content for list view of countries -->
+    <string-array name="countriesOnStrings">
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Lebanon</item>
+        <item>Luxembourg</item>
+        <item>Mexico</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Pakistan</item>
+        <item>Panama</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Russia</item>
+        <item>Senegal</item>
+        <item>Spain</item>
+        <item>Turkey</item>
+        <item>Zimbabwe</item>
+    </string-array>
+
+</resources>
